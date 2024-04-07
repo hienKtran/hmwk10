@@ -1,3 +1,9 @@
-body{
-    background-color: azure;
-}
+label {
+    text-align: left;
+    margin-bottom: 0.5em;
+  }
+  
+  input[type="text"] {
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+  }
